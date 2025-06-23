@@ -1,0 +1,14 @@
+{
+    "Robbery": "Illegal taking of property through force or threat",
+    "Assault": "Physical attack or violent contact",
+    "Cybercrime": "Computer/internet-based illegal activities",
+    "Burglary": "Unauthorized entry to commit theft",
+    "Vandalism": "Deliberate property destruction",
+    "Harassment": "Unwanted persistent behavior causing distress",
+    "Fraud": "Deception for personal gain",
+    "Kidnapping": "Unlawful taking and confinement of a person",
+    "Arson": "Deliberate setting of fires to property",
+    "DrugOffense": "Illegal drug-related activities",
+    "Other": "General complaint not matching specific categories"
+}
+

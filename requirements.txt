@@ -1,0 +1,15 @@
+streamlit==1.22.0
+openai-whisper==20231117
+torch
+transformers
+sentence-transformers
+scikit-learn
+numpy
+tqdm
+regex
+python-dotenv==1.0.0
+pydub==0.25.1 
+
+torchaudio==2.0.2
+sentencepiece==0.1.99
+protobuf==3.20.3
